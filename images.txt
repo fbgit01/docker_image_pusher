@@ -1,1 +1,4 @@
-alpine:3.19.1
+db:1.6.5
+elasticsearch:8.11.4
+server:1.6.5
+ingestion:1.6.5
